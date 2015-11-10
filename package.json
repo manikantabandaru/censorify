@@ -1,12 +1,12 @@
 {
  "author" : "Manikanta Bandaru",
-  "name"  : "censorify",
+  "name"  : "censorByMani",
   "version"  :"0.1.1",
   "description" : "Censors words out text",
   "main": "censortext",
   "repository": {
    "type" : "git",
-   "url" : "http://"
+   "url" : "https://github.com/manikantabandaru/censorify"
 
   },
   "keywords":[
