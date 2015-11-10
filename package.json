@@ -1,0 +1,23 @@
+{
+ "author" : "Manikanta Bandaru",
+  "name"  : "censorify",
+  "version"  :"0.1.1",
+  "description" : "Censors words out text",
+  "main": "censortext",
+  "repository": {
+   "type" : "git",
+   "url" : "http://"
+
+  },
+  "keywords":[
+   "censor",
+   "words"
+  ]   ,
+
+  "dependencies": {},
+  "engines": {
+        "node" : "*"
+  }
+
+
+}
